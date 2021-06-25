@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.yollpoll.mvvmplugin.services
 
+import com.github.yollpoll.mvvmplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
